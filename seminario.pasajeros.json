@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "649e2f876e6411902c634a3d"
+  },
+  "email": "tuliomoya17@example.com",
+  "first": "Tulio",
+  "last": "Moya",
+  "age": "29"
+},
+{
+  "_id": {
+    "$oid": "649e66e4c5260fa94e003be0"
+  },
+  "first": "Alvaro",
+  "last": "Gamez",
+  "age": 75,
+  "email": "alvaro.gamez@example.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e673cec91f5957059550a"
+  },
+  "first": "Saheli",
+  "last": "Thampy",
+  "age": 60,
+  "email": "saheli.thampy@example.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649e6cbc5ee2124c12e08b72"
+  },
+  "first": "Abdulkadir",
+  "last": "Klooster",
+  "age": 71,
+  "email": "abdulkadir.klooster@example.com",
+  "__v": 0
+}]
